@@ -15,6 +15,8 @@ I'm a Tech Enthusiast with a passion for software development. I have experience
 - [Twitter](https://twitter.com/drisul10)
 - [Email](mailto:andrisul@outlook.com)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=drisul10&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drisul10&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drisul10&layout=compact&theme=radical)
+
+![Codewars Badge](https://www.codewars.com/users/drisul10/badges/large)
